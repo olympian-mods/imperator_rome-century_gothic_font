@@ -1,0 +1,21 @@
+TITLE
+-----
+
+Century Gothic Font
+
+
+DESCRIPTION
+-----------
+
+[h1]Mod Description[/h1]
+This mod changes the interface fonts to "Century Gothic", the same font used in Stellaris.
+
+[h1]Ironman[/h1]
+This mod is Ironman compatible.
+
+[h1]Miscellaneous[/h1]
+[list]
+[*] If you like the font you can also try my font mod for Crusader Kings II: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=735130352]Interface: Century Gothic[/url]
+[/list]
+
+

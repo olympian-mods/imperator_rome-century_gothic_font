@@ -1,7 +1,7 @@
 name="Century Gothic Font"
-supported_version="1.0.0"
 tags={
 	"Interface"
 	"Ironman Compatible"
 }
+supported_version="2.*"
 remote_file_id="1723663760"
